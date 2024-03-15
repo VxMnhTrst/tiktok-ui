@@ -1,0 +1,15 @@
+.wrapper {
+    margin-top: 60px;
+}
+
+.container {
+    min-height: 1000px;
+    display: flex;
+    flex-direction: row;
+}
+
+.content {
+    position: relative;
+    margin: 0 auto;
+    color: black;
+}
