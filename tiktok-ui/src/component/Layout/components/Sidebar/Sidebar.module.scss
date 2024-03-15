@@ -1,8 +1,8 @@
 .wrapper {
-    width: 240px;
+    width: var(--default-layout-sidebar-width, 240px);
     background-color: bisque;
     padding: 20px 0px 26px 8px;
     position: fixed;
     bottom: 0;
-    top: 60px;
+    top: var(--default-layout-header-height, 60px);
 }

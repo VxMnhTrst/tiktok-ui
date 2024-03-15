@@ -1,5 +1,5 @@
 .wrapper {
-    margin-top: 60px;
+    margin-top: var(--default-layout-header-height, 60px);
 }
 
 .container {
